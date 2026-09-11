@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+_cache/
+_compose_tmp/
+ffmpeg/
+fonts/*.ttc
+fonts/*.ttf
+seen.json
+*.mp4
+*.wav
+*.mp3
